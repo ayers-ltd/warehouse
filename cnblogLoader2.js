@@ -4,6 +4,6 @@ window.cnblogLoader({
   defStaticIco:"https://cdn.jsdelivr.net/gh/Mycatchina/warehouse/miao.ico",
   defStaticVendor:"https://cdn.jsdelivr.net/gh/Mycatchina/warehouse/vendor.js",
   defStaticMain:"https://cdn.jsdelivr.net/gh/Mycatchina/warehouse/manifest.js",
-  defStaticSrc:"https://cjunn.gitee.io/blog_theme_atum/releases/",
+  defStaticSrc:"https://cdn.jsdelivr.net/gh/Mycatchina/warehouse/",
   defStaticVer:loaderversion
 })
